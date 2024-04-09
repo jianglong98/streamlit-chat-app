@@ -1,5 +1,5 @@
 # Streamlit conso chat application 
-# Updated by Jiang Long on 20240409
+### Updated by Jiang Long on 20240409
 In this project, we create a GPT based chatbot  that interacts with a complex database using Langchain agents and tools. The chat application is deployed using Streamlit.
 
 The data is provided by the RappelConso API, a French public service that shares information about product recalls in France.
